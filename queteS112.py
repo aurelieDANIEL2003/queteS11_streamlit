@@ -72,7 +72,7 @@ if st.session_state.authenticated:
             [
                 "https://cloudfront-eu-central-1.images.arcpublishing.com/leparisien/OHCWAPYBHJAGW62NT3FWF6TFB4.jpg",  # Image 1
                 "https://ultramarina.com/thumb/ar__x/f__jpg/h__512/q__60/w__1280/zc__1/src/fichier/p_entete/29084/entete_img_afrique_du_sud_plongee_tiger_shark_with_blacktip_sharks_shutterstock_fiona_ayerst_207019243.jpg",  # Image 2
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3F9RTr7xPxrDMZ-V7BO9bWy9vTdkNDmnAw&s"  # Image 3
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tOOZTN_qEEAik803eW_7uIS9UN7_24dUkSyCpzcZ0zG9YXcaD2YFXamAqHTLB3ItJ_ndY9-tPc9UHJkbTryz4iB6REmA2laYlohii_p0i6jrJUOBDta6q1_f934O6I-N_R8c_VpGJeY/s1600/les-grands-requins-blancs-ont-disparu-dune-celebre-baie-au-large-du-cap.jpg"  # Image 3
             ],
             caption=["Requin 1", "Requin 2", "Requin 3"]
         )
@@ -82,3 +82,4 @@ if st.session_state.authenticated:
 
         # Message de déconnexion
         st.warning("Vous avez été déconnecté. Rechargez la page pour revenir à la connexion.")
+
